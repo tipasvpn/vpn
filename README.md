@@ -1,3 +1,3 @@
-神盾 VPN (Windows, 安卓，苹果）
+神盾 VPN (安卓，苹果，Windows）
 
 https://github.com/tipasvpn/vpn/wiki 
